@@ -46,7 +46,8 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
-
+  url_launcher: ^6.1.14
+  flutter_svg: ^2.0.7
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -62,7 +63,14 @@ flutter:
   assets:
       - images/nm.jpeg
       - images/stock.jpg
-
+      - images/college-studying-svgrepo-com.svg
+      - images/instagram-logo-8869.svg
+      - images/location-arrow-svgrepo-com.svg
+      - images/mail-pencil-svgrepo-com.svg
+      - images/mobile-signal-out-svgrepo-com.svg
+      - images/phone-calling-svgrepo-com.svg
+      - images/working-bag-4-svgrepo-com.svg
+      - images/social-media-campaign-svgrepo-com.svg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
