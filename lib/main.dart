@@ -213,7 +213,7 @@ class Home extends StatelessWidget {
                 //   child:
                 // ),
                 SizedBox(
-                  height: 200,
+                  height: 80,
                 ),
                 Padding(
                   padding: const EdgeInsets.all(8.0),
